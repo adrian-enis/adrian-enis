@@ -1,16 +1,16 @@
-## Hi there 👋
+# ¡Hola! Soy Adrian Enis 👋
 
-<!--
-**adrian-enis/adrian-enis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desarrollador Full-stack, enfocado en construir aplicaciones web altamente escalables, eficientes y alineadas a metodologías modernas de desarrollo. 
 
-Here are some ideas to get you started:
+Especializado en el ecosistema JavaScript/TypeScript, diseño arquitecturas bajo el enfoque **Spec-Driven Development (AI-First)**, optimizando los ciclos de desarrollo mediante flujos agénticos y automatización avanzada.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tecnologías & Stack
+- **Frontend:** React, Next.js (App Router), TypeScript, Tailwind CSS, Zustand, React Query
+- **Backend & DB:** Node.js, Express, PostgreSQL, MongoDB, Prisma ORM, RESTful APIs (JWT)
+- **AI Engineering & Ops:** Spec-Driven Development, Agentic Workflows, Cursor, MCP, GitHub Actions
+
+### 🚀 En lo que me destaco
+- **Autonomía y Arquitectura:** Capacidad para llevar productos desde la especificación técnica hasta producción, asegurando código limpio, seguro (RLS/JWT) y mantenible.
+- **Eficiencia AI-First:** Modelado de software diseñado para interactuar con agentes de IA de forma óptima, acelerando el time-to-market sin sacrificar calidad ni cobertura de pruebas.
+
+📫 ¿Quieres conectar? Puedes encontrarme en [LinkedIn](https://www.linkedin.com/in/adrianenis/)
