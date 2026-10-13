@@ -9,10 +9,8 @@ Trabajo con especificación previa al código: reglas de negocio, modelo de dato
 Ecosistema digital para una heladería artesanal.
 
 - **[App de costos y rentabilidad](LINK)- **[App de costos y rentabilidad](https://github.com/adrian-enis/Calculadora-presupuesto-heladeria)**: React Native, Expo, TypeScript y SQLite. Calcula el costo real por lote, márgenes e inventario perpetuo con costo promedio ponderado. Funciona offline, con migraciones versionadas, respaldos, 65 tests automatizados y actualizaciones OTA con EAS Update.
+<img width="320" height="697" alt="demo-app" src="https://github.com/user-attachments/assets/6c64ddd5-6d30-4bbc-a435-9669b65ed704" />
 
-  <p align="center">
-    <img src="assets/demo-app.gif" width="260" alt="Demo de la app Heladería Dibuluc" />
-  </p>
 />
 **: React Native, Expo, TypeScript y SQLite. Calcula el costo real por lote, márgenes e inventario perpetuo con costo promedio ponderado. Funciona offline, con migraciones versionadas, respaldos, 65 tests automatizados y actualizaciones OTA con EAS Update.
 - **[Tienda web de pedidos](LINK)**: React 19 y Vite en el frontend, Express 5 y TypeScript en el backend, PostgreSQL (Supabase). Precios históricos inmutables por pedido y checkout directo a WhatsApp. Monorepo con pnpm workspaces.(Aun en curso)
