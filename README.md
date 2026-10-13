@@ -8,7 +8,7 @@ Trabajo con especificación previa al código: reglas de negocio, modelo de dato
 
 Ecosistema digital para una heladería artesanal.
 
-- **[App de costos y rentabilidad](LINK)**: React Native, Expo, TypeScript y SQLite. Calcula el costo real por lote, márgenes e inventario perpetuo con costo promedio ponderado. Funciona offline, con migraciones versionadas, respaldos, 65 tests automatizados y actualizaciones OTA con EAS Update.
+- **[App de costos y rentabilidad](LINK:<img src="assets/demo-app.gif" width="260" alt="Demo Heladería Dibuluc" />)**: React Native, Expo, TypeScript y SQLite. Calcula el costo real por lote, márgenes e inventario perpetuo con costo promedio ponderado. Funciona offline, con migraciones versionadas, respaldos, 65 tests automatizados y actualizaciones OTA con EAS Update.
 - **[Tienda web de pedidos](LINK)**: React 19 y Vite en el frontend, Express 5 y TypeScript en el backend, PostgreSQL (Supabase). Precios históricos inmutables por pedido y checkout directo a WhatsApp. Monorepo con pnpm workspaces.(Aun en curso)
 
 ## 🛠️ Stack
