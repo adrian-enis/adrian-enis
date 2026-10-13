@@ -1,16 +1,25 @@
-# ¡Hola! Soy Adrian Enis 👋
+# Hola, soy Adrian Enis 👋
 
-Desarrollador Full-stack, enfocado en construir aplicaciones web altamente escalables, eficientes y alineadas a metodologías modernas de desarrollo. 
+Desarrollador Full-Stack. Construyo aplicaciones web y móviles con React, Next.js, Node.js y TypeScript, con foco en lógica de negocio clara, APIs bien definidas y código testeable.
 
-Especializado en el ecosistema JavaScript/TypeScript, diseño arquitecturas bajo el enfoque **Spec-Driven Development (AI-First)**, optimizando los ciclos de desarrollo mediante flujos agénticos y automatización avanzada.
+Trabajo con especificación previa al código: reglas de negocio, modelo de datos y criterios de aceptación definidos antes de implementar.
 
-### 🛠️ Tecnologías & Stack
+## 🚀 Proyecto destacado: Heladería Dibiluc
+
+Ecosistema digital para una heladería artesanal.
+
+- **[App de costos y rentabilidad](LINK)**: React Native, Expo, TypeScript y SQLite. Calcula el costo real por lote, márgenes e inventario perpetuo con costo promedio ponderado. Funciona offline, con migraciones versionadas, respaldos, 65 tests automatizados y actualizaciones OTA con EAS Update.
+- **[Tienda web de pedidos](LINK)**: React 19 y Vite en el frontend, Express 5 y TypeScript en el backend, PostgreSQL (Supabase). Precios históricos inmutables por pedido y checkout directo a WhatsApp. Monorepo con pnpm workspaces.
+
+## 🛠️ Stack
+
 - **Frontend:** React, Next.js (App Router), TypeScript, Tailwind CSS, Zustand, React Query
-- **Backend & DB:** Node.js, Express, PostgreSQL, MongoDB, Prisma ORM, RESTful APIs (JWT)
-- **AI Engineering & Ops:** Spec-Driven Development, Agentic Workflows, Cursor, MCP, GitHub Actions
+- **Mobile:** React Native, Expo, SQLite
+- **Backend:** Node.js, Express, APIs REST, Prisma ORM, JWT
+- **Bases de datos:** PostgreSQL (Supabase), SQLite, MongoDB
+- **Calidad:** Zod, tests automatizados, Conventional Commits
+- **Herramientas:** Git, Cursor, MCP
 
-### 🚀 En lo que me destaco
-- **Autonomía y Arquitectura:** Capacidad para llevar productos desde la especificación técnica hasta producción, asegurando código limpio, seguro (RLS/JWT) y mantenible.
-- **Eficiencia AI-First:** Modelado de software diseñado para interactuar con agentes de IA de forma óptima, acelerando el time-to-market sin sacrificar calidad ni cobertura de pruebas.
+## 📫 Contacto
 
-📫 ¿Quieres conectar? Puedes encontrarme en [LinkedIn](https://www.linkedin.com/in/adrianenis/)
+[LinkedIn](https://www.linkedin.com/in/adrianenis) · adrian.enis.dev@gmail.com
